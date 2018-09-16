@@ -1,1 +1,1 @@
-"IrudiaEditor : A Discord bot" 
+"IrudiaEditor : An image processing Discord bot" 
